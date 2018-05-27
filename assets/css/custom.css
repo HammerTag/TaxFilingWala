@@ -1,1 +1,46 @@
 /* Add here all your css styles (customizations) */
+.pl-10 {
+	padding-left: 10px;
+}
+
+.header-v6 .mega-menu .equal-height-list h4 {
+    color: #555;
+    font-size: 15px;
+    font-weight: 400;
+    padding: 0 10px 0 13px;
+}
+
+.header-fixed .header-v6.header-classic-white .navbar-nav > li > a {
+	font-size: 10px;
+}
+
+.navbar-nav > li:active, .navbar-nav > li:hover {
+	cursor: pointer;
+}
+
+.row {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.mega-menu-content .split-text h5{
+	padding-bottom: 5px;
+	border-bottom: 1px solid #bbb;
+}
+
+.header-v6 .mega-menu .dropdown-menu-center {
+    left: 0;
+}
+
+@media screen and (max-width: 1030px) {
+	.mega-menu-content .split-text h5{
+		text-align: left;
+		border-bottom: 1px solid #eee;
+	}
+}
+
+@media (min-width: 992px) {
+	.header-v6 .mega-menu .pl-15 {
+		padding-left: 15px;
+	}
+}
