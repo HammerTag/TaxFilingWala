@@ -1,0 +1,15 @@
+/* Add here all your css styles (customizations) */
+
+.rev_slider .tp-mask-wrap .rs-hover-ready {
+	white-space: nowrap !important;
+}
+
+.u-header__section--light .navbar-nav:not([class*="u-main-nav-v"]) .sub-cat {
+	font-weight: bold;
+	font-size: 14px;
+	cursor: auto;
+}
+
+.main-menu {
+	font-size: 11px;
+}
