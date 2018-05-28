@@ -44,3 +44,10 @@
 		padding-left: 15px;
 	}
 }
+
+
+/*Parallax Counter v1
+------------------------------------*/
+.parallax-counter-v1 {
+  background: url(../img/patterns/4.png) repeat fixed;
+}
